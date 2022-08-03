@@ -37,17 +37,17 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^14.4.1",
     "@tsconfig/vite-react": "^1.0.0",
-    "@types/react": "^17.0.38",
+    "@types/react": "^17.0.48",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "latest",
-    "c8": "^7.11.3",
+    "c8": "^7.12.0",
     "eslint-config-react-app": "^7.0.1",
     "jsdom": "^20.0.0",
     "typescript": "latest",
     "vite": "latest",
-    "vitest": "^0.14.1"
+    "vitest": "^0.20.3"
   }
 }
